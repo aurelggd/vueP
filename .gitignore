@@ -1,4 +1,4 @@
-.DS_Store
+npm run .DS_Store
 node_modules
 /dist
 
